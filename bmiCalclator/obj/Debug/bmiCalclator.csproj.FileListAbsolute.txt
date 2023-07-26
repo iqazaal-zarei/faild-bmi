@@ -1,0 +1,8 @@
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\bin\Debug\bmiCalclator.exe.config
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\bin\Debug\bmiCalclator.exe
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\bin\Debug\bmiCalclator.pdb
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\obj\Debug\bmiCalclator.csproj.AssemblyReference.cache
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\obj\Debug\bmiCalclator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\obj\Debug\bmiCalclator.csproj.CoreCompileInputs.cache
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\obj\Debug\bmiCalclator.exe
+C:\Users\Valiasr\source\repos\bmiCalclator\bmiCalclator\obj\Debug\bmiCalclator.pdb
